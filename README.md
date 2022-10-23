@@ -28,11 +28,11 @@ For image processing, the tool is help user to extract the outline as a feature 
   ```
 ## Result for example:
 ### Raw image: 
-![Raw image](https://github.com/yellowbuffalo/image-outline-tool/blob/main/data/3.jpg?raw=true)
+![Raw image](https://github.com/yellowbuffalo/image-outline-tool/blob/main/data/11.jpg?raw=true)
 ### Image after gamma correction: 
-![Image after gamma correction](https://github.com/yellowbuffalo/image-outline-tool/blob/main/output/gamma/3.jpg?raw=true)
+![Image after gamma correction](https://github.com/yellowbuffalo/image-outline-tool/blob/main/output/gamma/11.jpg?raw=true)
 ### Image after morphology: 
-![Image after morphology](https://github.com/yellowbuffalo/ml-feature-selection-toolkit/blob/main/plot/result.png?raw=true)
+![Image after morphology](https://github.com/yellowbuffalo/image-outline-tool/blob/main/output/outline/11.jpg?raw=true)
 ### Image after closing:
-![Image after closing](https://github.com/yellowbuffalo/image-outline-tool/blob/main/output/closing/3.jpg?raw=true)
+![Image after closing](https://github.com/yellowbuffalo/image-outline-tool/blob/main/output/closing/11.jpg?raw=true)
 
