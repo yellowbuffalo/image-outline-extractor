@@ -4,7 +4,7 @@ For image processing, the tool is help user to extract the outline as a feature 
   * Step 1. Gamma correction to brighten the picture.
   * Step 2. Conduct morphology to get the outline of the data.
   * Step 3. Do closing on the picture after morphology to strengthen the object on picture(such as building and mountain) 
-* The dataset comes from [Intel Image Classification on Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) 
+* The dataset comes from [Intel Image Classification on Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
 
 ## Usage:
 * Using following to build environment
